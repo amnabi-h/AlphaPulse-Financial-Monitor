@@ -16,6 +16,20 @@ An investment risk monitor using Monte Carlo simulations and Tableau.
 
 ## 🚀 Core Functionalities
 
+### 📊 Dashboard Gallery (Visual Insights)
+*Below are the production-ready views from the AlphaPulse Tableau Engine. These visualizations provide executive-level oversight of market risk.*
+
+#### 1. Strategic Portfolio Risk Overview
+![Main Dashboard](1. Market Review.png)
+
+#### 2. Quantitative Volatility Analysis & Correlation Matrix
+![Risk Analysis](2. Risk Exposure.png)
+
+#### 3. Monte Carlo Simulation & Stochastic Forecasting
+![Monte Carlo Results](3. Future Fprecast(Monte Carlo).png)
+
+---
+
 ### 1. Advanced Quantitative Modeling
 * **Monte Carlo Simulation:** Executed 10,000 iterations to forecast a 1-year probability-based performance distribution.
 * **Value at Risk (VaR):** Calculated at a 95% confidence level to establish a maximum expected loss threshold.
