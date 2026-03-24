@@ -62,7 +62,7 @@ An investment risk monitor using Monte Carlo simulations and Tableau.
 
 * `01_AlphaPulse_Engine.py`: The primary ETL and Quantitative Engine.
 * `02_AlphaPulse_Analysis.ipynb`: Statistical research and Matplotlib/Seaborn visualizations.
-* `03_AlphaPulse_Dashboard.twbx`: The final production-ready Tableau workbook.
+* `03_AlphaPulse_Dashboard.twb`: The final production-ready Tableau workbook.
 * `data/`: Directory containing generated financial datasets (CSV format).
 
 ---
