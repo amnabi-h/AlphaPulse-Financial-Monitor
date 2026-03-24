@@ -26,7 +26,7 @@ An investment risk monitor using Monte Carlo simulations and Tableau.
 ![Risk Analysis](2. Risk Exposure.png)
 
 #### 3. Monte Carlo Simulation & Stochastic Forecasting
-![Monte Carlo Results](3. Future Fprecast(Monte Carlo).png)
+![Monte Carlo Results](3. Future Forecast(Monte Carlo).png)
 
 ---
 
@@ -75,7 +75,7 @@ An investment risk monitor using Monte Carlo simulations and Tableau.
     ```
 2.  **Data Generation:** Run `01_AlphaPulse_Engine.py` to refresh market data and re-run simulations.
 3.  **Research Review:** Open `02_AlphaPulse_Analysis.ipynb` to view the quantitative validation.
-4.  **Dashboard Access:** Load `03_AlphaPulse_Dashboard.twbx` in Tableau to interact with the high-level KPIs.
+4.  **Dashboard Access:** Load `03_AlphaPulse_Dashboard.twb` in Tableau to interact with the high-level KPIs.
 
 ---
 **Developed by Amna Bi Hafeez | Financial Risk Management Portfolio 2026**
